@@ -1,0 +1,132 @@
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.deps.json
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.runtimeconfig.json
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.runtimeconfig.dev.json
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.pdb
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.csprojAssemblyReference.cache
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.AssemblyInfoInputs.cache
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.AssemblyInfo.cs
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.csproj.CoreCompileInputs.cache
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.MvcApplicationPartsAssemblyInfo.cache
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.RazorTargetAssemblyInfo.cache
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/staticwebassets/testMIC.StaticWebAssets.Manifest.cache
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/staticwebassets/testMIC.StaticWebAssets.xml
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.dll
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.pdb
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.genruntimeconfig.cache
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/test.sqlite
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/eddie/Projects/testMIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.MvcApplicationPartsAssemblyInfo.cs
+/Users/eddie/Projects/testMIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.csproj.CopyComplete
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/appsettings.json
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/NLog.config
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.deps.json
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.runtimeconfig.json
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.runtimeconfig.dev.json
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/testMIC.pdb
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/NLog.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.csprojAssemblyReference.cache
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.AssemblyInfoInputs.cache
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.AssemblyInfo.cs
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.csproj.CoreCompileInputs.cache
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.RazorTargetAssemblyInfo.cache
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.csproj.CopyComplete
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/staticwebassets/testMIC.StaticWebAssets.Manifest.cache
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/staticwebassets/testMIC.StaticWebAssets.xml
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.dll
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.pdb
+/Volumes/MacOS 1/MIC/testMIC/obj/Debug/netcoreapp3.1/testMIC.genruntimeconfig.cache
+/Volumes/MacOS 1/MIC/testMIC/bin/Debug/netcoreapp3.1/test.sqlite
